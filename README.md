@@ -2,7 +2,7 @@
 
 ## ***[OpenCV Course of PyTorch, Project 4, OpenCV PyTorch Segmentation Project Round 2](https://www.kaggle.com/competitions/opencv-pytorch-segmentation-project-round2/overview)***
 
-<img src="" alt="Data image" style="height: 300px; width:500px;"/>
+<img src="https://github.com/RadimKozl/OpenCV_PyTorch_Project4/blob/main/img/data_montage01.jpg" alt="Data image" style="height: 300px; width:500px;"/>
 
 <br><br>
 
@@ -10,7 +10,7 @@
 
 ### ***This is projekt from [OpenCV University](https://opencv.org/university/course/deep-learning-with-pytorch/).***
 
-<img src="https://github.com/RadimKozl/OpenCV_PyTorch_Project4/blob/main/img/Open-CV-Acceleration-1.jpg" alt="OpenCV logo" style="height: 100px; width:100px;/>
+<img src="https://github.com/RadimKozl/OpenCV_PyTorch_Project4/blob/main/img/Open-CV-Acceleration-1.jpg" alt="OpenCV logo" style="height: 100px; width:100px;"/>
 
 ### ***This project was developed with the support of the company [SV metal spol. sr. o.](https://www.svmetal.cz/cs).***
 
